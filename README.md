@@ -19,7 +19,7 @@ A primeira maneira é clonar o repositório e fazer uma instalação local:
 
 A segunda maneira é instalar diretamente
 
-    pip install git+https://github.com/henriquebrnetto/svd.git
+    pip install git+https://github.com/henriquebrnetto/aps5_alglin.git
 
 Para desinstalar, use:
 
