@@ -13,13 +13,13 @@ Lembre-se de seguir essas instruções de dentro do seu ambiente virtual preferi
 
 A primeira maneira é clonar o repositório e fazer uma instalação local:
 
-    git clone https://github.com/henriquebrnetto/svd.git
+    git clone https://github.com/henriquebrnetto/aps5_alglin.git
     cd svd
     pip install .
 
 A segunda maneira é instalar diretamente
 
-    pip install git+https://github.com/henriquebrnetto/svd.git
+    pip install git+https://github.com/henriquebrnetto/aps5_alglin.git
 
 Para desinstalar, use:
 
