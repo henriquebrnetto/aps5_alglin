@@ -1,5 +1,9 @@
 # svd
 
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?resource=download&select=ratings_small.csv
+
+
+
 Utilizando SVD para prever avaliações de filmes
 
 Se você vai *desenvolver* deste repositório, vá para o [guia de desenvolvimento](README_DEV.md).
